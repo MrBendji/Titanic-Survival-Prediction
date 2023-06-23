@@ -21,7 +21,7 @@ This project aims to predict the survival outcome of passengers on the Titanic u
 - scikit-learn
 
 ## Getting Started
-1. Clone the repository: `git clone [https://github.com/your-username/titanic-survival-prediction](https://github.com/MrBendji/Titanic-Survival-Prediction).git`
+1. Clone the repository: `git clone https://github.com/MrBendji/Titanic-Survival-Prediction.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook`
 4. Open the `titanic_survival_prediction_notebook.ipynb` notebook and follow the step-by-step instructions.
