@@ -10,7 +10,6 @@ This project aims to predict the survival outcome of passengers on the Titanic u
 5. Model Evaluation: The performance of each model is assessed using evaluation metrics such as accuracy, precision, recall, and F1-score.
 6. Hyperparameter Tuning: The models are fine-tuned by adjusting their hyperparameters to improve their performance.
 7. Final Model Selection: The best-performing model is selected based on the evaluation results.
-8. Deployment: The final model is deployed to make predictions on new, unseen data.
 
 ## Dependencies
 - Python 3.x
